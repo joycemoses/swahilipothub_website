@@ -3,7 +3,7 @@
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import { partners } from "@/app/partners/partners-logos";
+import { partners } from "@/components/partners/partners-logos";
 
 
 

@@ -40,7 +40,7 @@ const CaseManagement: React.FC = () => {
         </div>
         <div className="image-container">
           <Image
-            src="/images/case-management.jpg" // Change this to your actual image path
+            src="/image/case-management.jpg" // Change this to your actual image path
             alt="Case Management"
             width={500}
             height={400}
